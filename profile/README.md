@@ -7,7 +7,7 @@
 <!-- [![Github](https://img.shields.io/github/followers/pytopia?label=Follow&style=social)](https://github.com/pytopia) -->
 
  <!-- Logo image -->
-<img src="../images/python-logo.jpeg" alt="logo" width="400"/>
+<img src="./images/python-logo.jpeg" alt="logo" width="400"/>
  
 - 💻 [Pytopia](https://www.pytopia.ai) is an online learning and teaching marketplace for Data Science. Taught by experts to help you acquire new skills.
 - 📕 We teach Python, Machine Learning, Git, etc. Visit our website, [pytopia.ai](https://www.pytopia.ai) to learn more.
