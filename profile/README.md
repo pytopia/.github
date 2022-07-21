@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/pytopia_ai)
 
  <!-- Logo image -->
-<img src="./python-logo.jpeg" alt="logo" width="400"/>
+<!-- <img src="./python-logo.jpeg" alt="logo" width="400"/> -->
 
 - 💻 [Pytopia](https://www.pytopia.ai) is an online learning and teaching marketplace for Data Science started by [Ali Hejazizo](https://github.com/hejazizo).
 - 📕 We teach Python, Machine Learning, Git, etc. Visit our website, [pytopia.ai](https://www.pytopia.ai) to learn more.
