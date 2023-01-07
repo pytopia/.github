@@ -11,3 +11,5 @@
 - 💻 [Pytopia](https://www.pytopia.ai) is an online learning and teaching marketplace for Data Science started by [Ali Hejazizo](https://github.com/hejazizo).
 - 📕 We teach Python, Machine Learning, Git, etc. Visit our website, [pytopia.ai](https://www.pytopia.ai) to learn more.
 - 📫 How to reach: pytopia.ai@gmail.com
+
+You are welcome to use [discussions](https://github.com/orgs/pytopia/discussions) to ask questions, report bugs, or request features.
