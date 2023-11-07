@@ -1,4 +1,4 @@
-<h1> Pytopia </h1>
+<img src="./pytopia.png" alt="logo" width="800"/>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pytopia.ai@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.pytopia.ai)](https://www.pytopia.ai)
@@ -8,7 +8,7 @@
  <!-- Logo image -->
 <!-- <img src="./python-logo.jpeg" alt="logo" width="400"/> -->
 
-- 💻 [Pytopia](https://www.pytopia.ai) is an online learning and teaching marketplace for Data Science started by [Ali Hejazizo](https://github.com/hejazizo).
+- 💻 [Pytopia](https://www.pytopia.ai) is an online learning and teaching marketplace for Data Science founded by [Ali Hejazizo](https://github.com/hejazizo).
 - 📕 We teach Python, Machine Learning, Git, etc. Visit our website, [pytopia.ai](https://www.pytopia.ai) to learn more.
 - 📫 How to reach: pytopia.ai@gmail.com
 
