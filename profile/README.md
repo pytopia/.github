@@ -1,4 +1,4 @@
-<img src="./pytopia.png" alt="logo" width="800"/>
+<img src="./profile/pytopia.png" alt="logo" width="800"/>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pytopia.ai@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.pytopia.ai)](https://www.pytopia.ai)
