@@ -4,6 +4,9 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.pytopia.ai)](https://www.pytopia.ai)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.instagram.com/pytopia.ai)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/pytopia_ai)
+[![Telegram](https://img.shields.io/badge/Join-Telegram-blue)](https://t.me/pytopia_ai)
+[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-red)](https://www.youtube.com/c/pytopia)
+[![LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-blue)](https://linkedin.com/company/pytopia)
 
  <!-- Logo image -->
 <!-- <img src="./python-logo.jpeg" alt="logo" width="400"/> -->
